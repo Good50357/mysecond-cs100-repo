@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Good - Profile </title>
+</head>
+
+<body>
+
+    <div>
+
+        <div>
+            <img src="profile.jpg" alt="Picture of Good">
+        </div>
+
+        <div>
+            <h1>Hello, I’m Good .</h1>
+
+            <p>Graphic Designer</p>
+
+            <p>
+                Computer Science students in Thammasat University
+                freshy year!.
+            </p>
+
+            <p>
+                Image from <a href="#">Freepik</a>
+            </p>
+
+            <h2>Profile</h2>
+
+            <p><strong>Phone:</strong> +123 456 789</p>
+            <p><strong>Email:</strong> info@youremailidhere.com</p>
+            <p><strong>Address:</strong> 121 Rock Street, 21 Avenue, New York, NY 92103-9000</p>
+            <p><strong>Date of Birth:</strong> Aug 28th 1987</p>
+
+            <p>
+                <a href="#">DOWNLOAD CV</a>
+            </p>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
