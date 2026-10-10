@@ -1,0 +1,44 @@
+*{
+    margin: 1rem;
+}
+
+body{
+    margin: 0;
+    border-top: 60px solid #e6e8ff;
+    border-bottom: 60px solid #e6e8ff;
+    min-height: 100vh;
+}
+
+.Myname{
+    text-align: center;
+}
+
+#Picture_john{
+    height: 400px;
+    width: auto;
+    margin: 25px;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+main{
+    margin-left: 17rem;
+    margin-top: 2rem;
+}
+
+
+#dowload_cv{
+    background-color: rgb(46, 53, 187);
+    color: white;
+
+    padding: 15px 40px;
+    text-align: center;
+
+    font-family: sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    display: inline-block;
+    letter-spacing: 1px;
+}
